@@ -1,6 +1,6 @@
 a = "12345zx67890c"
 a = a.replace("1", "H")
-a = a.replace("2", "o")
+a = a.replace("2", "e")
 a = a.replace("3", "l")
 a = a.replace("4", "l")
 a = a.replace("5", "o")
